@@ -1,0 +1,7 @@
+.classpath
+.project
+/.settings/
+/target/
+/configs/
+/src/main/resources/config.properties
+/src/main/resources/hibernate.cfg.xml
